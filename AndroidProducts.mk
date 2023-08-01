@@ -14,7 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/rr_harpia.mk
+    $(LOCAL_DIR)/aosp_harpia.mk
 
 COMMON_LUNCH_CHOICES := \
-    rr_harpia-userdebug
+    aosp_harpia-userdebug
